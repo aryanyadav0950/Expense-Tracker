@@ -11,7 +11,7 @@ A simple command-line **Expense Tracker** built using **Python and CSV** file ha
 - Stores all data in `expenses.csv` file
             
 ---     
-     
+              
 ## 🛠 Technologies Used          
 - Python  
 - CSV module  
