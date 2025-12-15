@@ -8,7 +8,7 @@ A simple command-line **Expense Tracker** built using **Python and CSV** file ha
 - Add new expenses with date, category, amount, and description  
 - View all expenses with total calculation  
 - Search expenses by category   
-- Stores all data in `expenses.csv` file   
+- Stores all data in `expenses.csv` file     
                                                   
 ---              
                      
