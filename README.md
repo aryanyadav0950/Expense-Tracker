@@ -20,7 +20,7 @@ A simple command-line **Expense Tracker** built using **Python and CSV** file ha
 ---
 
 ## ▶️ How to Run  
-  
+   
 ```
 python expense_tracker.py. 
 ```
