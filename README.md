@@ -10,7 +10,7 @@ A simple command-line **Expense Tracker** built using **Python and CSV** file ha
 - Search expenses by category   
 - Stores all data in `expenses.csv` file     
                                                    
----              
+---               
                      
 ## 🛠 Technologies Used          
 - Python     
