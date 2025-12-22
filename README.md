@@ -23,7 +23,7 @@ A simple command-line **Expense Tracker** built using **Python and CSV** file ha
    
 ```
 python expense_tracker.py. 
-```
+``` 
 
 Data is saved in `expenses.csv` in the same folder.
 
