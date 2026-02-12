@@ -60,7 +60,7 @@ def main_menu():
         print("1. Add Expense")
         print("2. View All Expenses")
         print("3. Search by Category")
-        print("4. Exit")
+        print("4. Close")
 
         choice = input("Enter your choice (1-4): ")
 
