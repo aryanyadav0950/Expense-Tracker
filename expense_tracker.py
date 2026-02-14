@@ -8,8 +8,8 @@ def add_expense():
     print("\n---- Add New Expense ----")
     date = input("Date (YYYY-MM-DD): ")
     category = input("Category (Food, Travel, etc.): ")
-    amount = float(input("Amount (₹): "))
-    description = input("Description: ")
+    amount = float(input("Amount (₹):  "))
+    description = input("Description:  ")
 
     with open(FILE_NAME, "a", newline="") as file:
         writer = csv.writer(file)
