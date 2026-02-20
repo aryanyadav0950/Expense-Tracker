@@ -4,7 +4,7 @@ import os
 FILE_NAME = "expenses.csv"
 
 
-def add_expense():
+def add_expense(): 
     print("\n---- Add New Expense ----")
     date = input("Date (YYYY-MM-DD): ")
     category = input("Category (Food, Travel, etc.): ")
