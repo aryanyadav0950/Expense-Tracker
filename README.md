@@ -14,7 +14,7 @@ A simple command-line **Expense Tracker** built using **Python and CSV** file ha
 ---                   
                       
 ## 🛠 Technologies Used          
-- Python      
+- Python       
 - CSV module    
 - File Handling      
    
