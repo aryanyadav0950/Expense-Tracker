@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (Python + CSV)               
+# 💰 Expense Tracker (Python + CSV)                
    
 A simple command-line **Expense Tracker** built using **Python and CSV** file handling.                
          
